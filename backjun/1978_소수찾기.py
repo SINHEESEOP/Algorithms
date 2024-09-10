@@ -29,3 +29,26 @@ def count_primes_in_list(data):
 # 소수의 개수를 구함
 prime_count = count_primes_in_list(data)
 print(prime_count)
+
+
+# 다시 풀어보기 ------------------------------------------------------------------------------
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
