@@ -2,6 +2,7 @@ import sys
 
 sys.setrecursionlimit(100000)
 
+
 def coin_counter(money, coins, idx, memo):
 
     if (money, idx) in memo:
@@ -29,4 +30,3 @@ if __name__ == '__main__':
 
         idx = 0
         print(coin_counter(money, coins, idx, memo))
-
